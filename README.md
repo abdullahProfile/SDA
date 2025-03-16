@@ -1,6 +1,9 @@
 # SDA
 
-<h1>With Principle (Good Design)</h1>
+<h1>🎥 Video Explanation</h1>
+
+<li>live prview: https://drive.google.com/file/d/1tV1rq6sVRJcBNLWwAZeTFuCtR9Hkm-OL/view?usp=drive_link</li> <br>
+<h2>With Principle (Good Design)</h2>
 
 <ul>
 <li>Stores weights in an array.</li>
