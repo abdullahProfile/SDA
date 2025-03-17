@@ -2,7 +2,8 @@
 
 <h1>🎥 Video Explanation</h1>
 
-<li>Click to Watch: https://drive.google.com/file/d/1tV1rq6sVRJcBNLWwAZeTFuCtR9Hkm-OL/view?usp=drive_link</li> <br>
+<li>Click to Watch: [https://drive.google.com/file/d/1tV1rq6sVRJcBNLWwAZeTFuCtR9Hkm-OL/view?usp=drive_link](https://drive.google.com/file/d/1tV1rq6sVRJcBNLWwAZeTFuCtR9Hkm-OL/view?usp=sharing)
+</li> <br>
 <h2>With Principle (Good Design)</h2>
 
 <ul>
